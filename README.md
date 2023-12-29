@@ -9,4 +9,8 @@ https://cyberfile.me/7bu7
 GTAVSP.7z (password Mi76#b>9mRed)
 https://cyberfile.me/7bu8
 
-По факту код никак не навредит #GTOnline и уж тем более #GTAVI.
+По факту код никак не навредит #GTAOnline и уж тем более #GTAVI.
+
+
+
+Soon I'll try to upload code for peple who want to contribute. In archive are present game's code for VS 2015, RAGE code and binaries. Feel free to use it ONLY FOR EDUCATION AND MODDING PURPOSES! I'M NOT A HACKER, JUST A REPOSTER. Have fun, huh.
